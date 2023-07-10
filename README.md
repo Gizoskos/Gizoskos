@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Game developing and AI.<br>I am in the first year of Software engineering.<br>I try to add myself more and more everyday.<br>Learning is my passion!
+I am currently working on Game developing and AI.<br>I am in the first year of Software engineering.<br>I try to add myself more and more everyday. <br>Learning is my passion!
 
 
 ## 🌐 Socials:
