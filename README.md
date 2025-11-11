@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on backend and AI systems developing.<br>I am in the third year of Software engineering.<br>I try to add myself more and more everyday. <br>Mode passiON
+I am currently working on backend and AI systems developing.<br>I am in the fourth year of Software engineering.<br>I try to add myself more and more everyday. <br>Mode passiON
 
 
 ## 🌐 Socials:
